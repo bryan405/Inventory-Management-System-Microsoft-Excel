@@ -140,21 +140,21 @@ dashboard highlights:
 
 - FILTER
 
-IF,IFS, IFERROR
+- IF,IFS, IFERROR
 
-SUMIFS,SUMIFS, COUNTIFS
+- SUMIFS,SUMIFS, COUNTIFS
 
-FILTER, SORT
-Structured References
+- SORT
+- Structured References
 
 **Dashboard Design**
-KPI Cards
+- KPI Cards
 
-Dynamic Charts
+- Dynamic Charts
 
-Slicers
+- Slicers
 
-Interactive Reports
+- Interactive Reports
 
 **Data Management**
 - Excel Tables
