@@ -17,13 +17,8 @@ A fully automated Excel solution for real‑time inventory control, sales tracki
 
 ![Dashboard KPIs](#dasboard-kpis)
 
-![Automation Logic](#automation-logic)
-
-![Folder Structure](#folder-structure)
-
 ![Business Insights](#business-insights)
 
-![Author](#author)
 
 ## ![Project Overview](#project-overview)
 Inventory management is one of the most common operational pain points for growing businesses. Manual spreadsheets often lead to stock inaccuracies, slow reporting, and poor purchasing decisions.
@@ -113,5 +108,85 @@ Build an Excel system that:
 - Data validation
 
 - Dynamic reporting
+
+## ![Dashboard KPIs](#dasboard-kpis)
+
+dashboard highlights:
+
+- Total Products
+
+- Total Suppliers
+
+- Inventory Value
+
+- Products in Stock
+
+- Low Stock Items
+
+- Out of Stock Items
+
+- Total Purchases
+
+- Total Sales
+
+- Inventory Movement
+
+- Stock Status Breakdown
+
+  ## ![Excel Skills Demonstrated](#excel-skills-demostrated)
+
+**Advanced Excel**
+- XLOOKUP
+
+- FILTER
+
+IF,IFS, IFERROR
+
+SUMIFS,SUMIFS, COUNTIFS
+
+FILTER, SORT
+Structured References
+
+**Dashboard Design**
+KPI Cards
+
+Dynamic Charts
+
+Slicers
+
+Interactive Reports
+
+**Data Management**
+- Excel Tables
+
+- Data Validation
+
+- Conditional Formatting
+
+**Reporting**
+- Pivot Tables
+
+- Pivot Charts
+
+**Automation**
+- Dynamic Arrays
+
+- Named Ranges
+
+  ## ![Business Insights](#business-insights)
+
+  This automated system helps businesses:
+
+- Maintain accurate inventory
+
+- Identify items needing replenishment
+
+- Track sales and purchasing trends
+
+- Improve supplier coordination
+
+- Reduce stockouts
+
+- Strengthen operational decision‑making
   
 
