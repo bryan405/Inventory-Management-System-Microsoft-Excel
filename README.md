@@ -85,6 +85,6 @@ Suggested images:
 
 - Supplier
 
-  ![im
+  ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/dashboard.png)
   
 
