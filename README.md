@@ -89,5 +89,32 @@ Suggested images:
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/inventory.png)
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/purchase.png)
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/sales.png)
+  ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/supplier.png)
+
+  ## ![Dataset Structure](#dasboard-structure)
+
+
+
+## ![Key Features](#key-feattures)
+
+Automated inventory updates
+
+Dynamic dashboard
+
+Sales & purchase recording
+
+Supplier management
+
+Low‑stock & out‑of‑stock alerts
+
+Inventory status tracking
+
+Conditional formatting
+
+Data validation
+
+Search & lookup functions
+
+Dynamic reporting
   
 
