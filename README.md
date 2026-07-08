@@ -35,20 +35,20 @@ This project shows how Excel can be transformed into a **complete Inventory Mana
 
 Small and mid‑size businesses frequently rely on manual inventory logs. This creates:
 
-- **Stock discrepancies
+- Stock discrepancies
 
-- **Out‑of‑stock situations
+- Out‑of‑stock situations
 
-- **Overstocking
+- Overstocking
 
-- **Slow reporting cycles
+- Slow reporting cycles
 
-- **Missing supplier details
+- Missing supplier details
 
-- **Manual calculations
+- Manual calculations
 
-- **Human errors
+- Human errors
 
-- **Inefficient purchasing decisions
+- Inefficient purchasing decisions
 
 The goal was to replace these issues with a simple, automated, Excel‑based system.
