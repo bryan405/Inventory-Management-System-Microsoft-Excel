@@ -83,5 +83,8 @@ Suggested images:
 
 - Sales 
 
-- Supplier 
+- Supplier
+
+  ##![Dashboard Preview](#dasboard-preview)
+  
 
