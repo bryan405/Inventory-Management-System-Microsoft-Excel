@@ -85,6 +85,6 @@ Suggested images:
 
 - Supplier
 
-  ##![Dashboard Preview](#dasboard-preview)
+  ![im
   
 
