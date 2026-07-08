@@ -71,10 +71,6 @@ Build an Excel system that:
 
   ## ![Dashboard Preview](#dasboard-preview)
 
-
-
-Suggested images:
-
 - Main Dashboard
 
 - Inventory 
@@ -92,29 +88,30 @@ Suggested images:
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/supplier.png)
 
   ## ![Dataset Structure](#dasboard-structure)
+  
+
+  ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/table%20structure.png)
 
 
 
 ## ![Key Features](#key-feattures)
 
-Automated inventory updates
+- Automated inventory updates
 
-Dynamic dashboard
+- Dynamic dashboard
 
-Sales & purchase recording
+- Sales & purchase recording
 
-Supplier management
+- Supplier management
 
-Low‑stock & out‑of‑stock alerts
+- Low‑stock & out‑of‑stock alerts
 
-Inventory status tracking
+- Inventory status tracking
 
-Conditional formatting
+- Conditional formatting
 
-Data validation
+- Data validation
 
-Search & lookup functions
-
-Dynamic reporting
+- Dynamic reporting
   
 
