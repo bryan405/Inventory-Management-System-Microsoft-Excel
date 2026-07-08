@@ -7,8 +7,6 @@ A fully automated Excel solution for real‑time inventory control, sales tracki
 
 ![Objectives](#objectives)
 
-![Solution Architecture](#solution-architecture)
-
 ![Dashboard Preview](#dasboard-preview)
 
 ![Dataset Structure](#dasboard-structure)
@@ -52,3 +50,38 @@ Small and mid‑size businesses frequently rely on manual inventory logs. This c
 - Inefficient purchasing decisions
 
 The goal was to replace these issues with a simple, automated, Excel‑based system.
+
+## ![Objectives](#objectives)
+
+Build an Excel system that:
+
+- Automatically updates inventory
+
+- Tracks purchases and sales
+
+- Calculates available stock
+
+- Generates low‑stock alerts
+
+- Displays key business metrics
+
+- Centralizes supplier information
+
+- Provides a clean, interactive dashboard
+
+  ## ![Dashboard Preview](#dasboard-preview)
+
+
+
+Suggested images:
+
+- Main Dashboard
+
+- Inventory 
+
+- Purchase 
+
+- Sales 
+
+- Supplier 
+
