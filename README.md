@@ -26,3 +26,8 @@ A fully automated Excel solution for real‑time inventory control, sales tracki
 ![Business Insights](#business-insights)
 
 ![Author](#author)
+
+## ![Project Overview](#project-overview)
+Inventory management is one of the most common operational pain points for growing businesses. Manual spreadsheets often lead to stock inaccuracies, slow reporting, and poor purchasing decisions.
+
+This project shows how Excel can be transformed into a **complete Inventory Management System** - capable of automating stock updates, generating alerts, tracking sales and purchases, and providing management‑ready dashboards without needing external software.
