@@ -87,5 +87,6 @@ Suggested images:
 
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/dashboard.png)
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/inventory.png)
+  ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/purchase.png)
   
 
