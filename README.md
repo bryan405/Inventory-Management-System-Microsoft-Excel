@@ -83,19 +83,18 @@ Build an Excel system that:
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/supplier.png)
   
   
-  ## ![Click Excel Dashboard](https://1drv.ms/x/c/e15b8c82b26b3d95/IQAk-AlFkRxUQIUCW-RZGc4PAeCtNm08ocYHPREpCs18DHs?e=fsjte3)
-  
-
-  ## ![Dataset Structure](#dasboard-structure)
-  
-
   ## 📊 Live Demo
 
 View the interactive Excel Inventory Management Dashboard here:
 
 ➡️ **[Open Excel Dashboard](https://1drv.ms/x/c/e15b8c82b26b3d95/IQAk-AlFkRxUQIUCW-RZGc4PAeCtNm08ocYHPREpCs18DHs?e=fsjte3)**
 
+
+## ![Dataset Structure](#dasboard-structure)
+
+
 ## ![Key Features](#key-feattures)
+
 
 - Automated inventory updates
 
