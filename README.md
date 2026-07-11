@@ -81,7 +81,10 @@ Build an Excel system that:
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/purchase.png)
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/sales.png)
   ![image alt](https://github.com/bryan405/Inventory-Management-System-Microsoft-Excel/blob/main/folder/supplier.png)
+  
+  
   ## ![Click Excel Dashboard](https://1drv.ms/x/c/e15b8c82b26b3d95/IQAk-AlFkRxUQIUCW-RZGc4PASrFPhjhPYIc5B7oVK91OGg?e=Fhdv9o)
+  
 
   ## ![Dataset Structure](#dasboard-structure)
   
